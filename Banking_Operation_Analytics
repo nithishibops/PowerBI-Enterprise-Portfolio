@@ -1,0 +1,114 @@
+# 🏦 Banking Operations Dashboard
+
+## 📌 Project Overview
+
+This Power BI dashboard provides a comprehensive view of banking operations by monitoring customer activity, deposits, loans, profitability, and operational performance. It enables stakeholders to track KPIs, compare historical performance, and identify business trends through interactive visualizations.
+
+---
+
+## 🎯 Business Objectives
+
+* Monitor overall banking performance
+* Track deposits and loan portfolio
+* Analyze revenue, expenses, and net profit
+* Compare Current Year (CY) vs Previous Year (PY)
+* Identify top-performing branches and regions
+* Support data-driven business decisions
+
+---
+
+## 📊 Dashboard Pages
+
+### 1. Executive Overview
+
+* KPI Cards
+* Revenue & Profit Trends
+* Monthly Performance
+* Branch Performance
+* Regional Analysis
+
+### 2. Customer Analytics
+
+* Total Customers
+* Customer Growth
+* Customer Distribution
+* Average Account Balance
+
+### 3. Loan & Deposit Analysis
+
+* Total Loans
+* Total Deposits
+* Loan-to-Deposit Ratio
+* Growth Analysis
+* Previous Year Comparison
+
+### 4. Financial Performance
+
+* Revenue Analysis
+* Expense Analysis
+* Net Profit
+* Profit Margin
+* Financial Trends
+
+---
+
+## 📈 Key KPIs
+
+* Total Customers
+* Total Deposits
+* Total Loans
+* Total Revenue
+* Total Expenses
+* Net Profit
+* Profit Margin
+* Loan-to-Deposit Ratio
+* Average Account Balance
+* Customer Growth %
+* Deposit Growth %
+* Loan Growth %
+* Previous Year (PY) KPIs
+
+---
+
+## 🛠 Tools & Technologies
+
+* Power BI Desktop
+* Power Query
+* DAX
+* Microsoft Excel
+
+---
+
+## 💡 DAX Concepts Used
+
+* CALCULATE()
+* DIVIDE()
+* SUM()
+* AVERAGE()
+* DISTINCTCOUNT()
+* MAX()
+* MIN()
+* SAMEPERIODLASTYEAR()
+* DATEADD()
+* TOTALYTD()
+
+---
+
+## 📌 Business Value
+
+This dashboard helps banking management monitor operational efficiency, evaluate financial performance, identify growth opportunities, and make informed strategic decisions through interactive reporting.
+
+---
+
+## 📷 Dashboard Preview
+
+*(Add dashboard screenshots here)*
+
+---
+
+## 📂 Files Included
+
+* Banking Operations Dashboard.pbix
+* Sample Dataset (.xlsx)
+* Dashboard Screenshots
+* README.md
